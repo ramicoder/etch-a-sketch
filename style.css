@@ -1,0 +1,38 @@
+.box {
+    box-sizing: border-box;
+    width:auto;
+    height: auto;
+    border: 2px solid #000;
+    flex-grow: 1;
+    flex-shrink: 1;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    flex-shrink: 1;
+}
+
+#container {
+    margin-top: 50px;
+    display: inline-flex; 
+    border: 6px solid maroon;
+    height: 770px;
+    width: 770px;
+}
+
+.button {
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+    background-color: rgb(53, 134, 103);
+}
+
+p {
+    font-style: italic;
+    font-size: 25px;
+   
+}
+
+
