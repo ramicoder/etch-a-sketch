@@ -29,6 +29,7 @@ This project is part of **The Odin Project – Foundations curriculum** and focu
   - Enforces a safe grid-size limit to avoid performance issues
 
 ---
+## Live Preview: https://ramicoder.github.io/etch-a-sketch/
 
 ## 🔹 Technical Highlights
 
